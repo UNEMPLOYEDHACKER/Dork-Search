@@ -2,7 +2,7 @@
 # This Python file uses the following encoding: utf-8
 
 # ===== #
-
+#Auth_Deep
 # ===== #
 
 ########################################################################
@@ -61,7 +61,8 @@ for col in banner:
 
 x = ("""
                 Author:  UNEMPLOYED HACKER
-                Github:  https://github.com/UNEMPLOYEDHACKER\n """)
+                Github:  https://github.com/UNEMPLOYEDHACKER
+                Telegram: t.me/+qrWmZ0cm9NIxNTI9e\n """)
 for col in x:
     print(colors.CBLUE2 + col, end="")
     sys.stdout.flush()
