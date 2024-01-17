@@ -60,7 +60,7 @@ for col in banner:
     time.sleep(0.0025)
 
 x = ("""
-                Author:  UNEMPLOYED HACKER
+                Author:  UNEMPLOYED HACKER|DEEP & SUDO
                 Github:  https://github.com/UNEMPLOYEDHACKER
                 Telegram: t.me/+qrWmZ0cm9NIxNTI9e\n """)
 for col in x:
