@@ -29,7 +29,7 @@
 
 ➢ 𝘾𝙊𝙈𝙈𝘼𝙉𝘿 ➦
 
-➢ 𝘾𝙇𝙊𝙉𝙀 𝙍𝙀𝙋𝙊 𝙐𝙎𝙄𝙉𝙂 - git clone github.com/UNEMPLOYEDHACKER/Dork-Search
+➢ 𝘾𝙇𝙊𝙉𝙀 𝙍𝙀𝙋𝙊 𝙐𝙎𝙄𝙉𝙂 - git clone https://github.com/UNEMPLOYEDHACKER/Dork-Search
 
 ➢ 𝘾𝙃𝘼𝙉𝙂𝙀 𝘿𝙄𝙍𝙀𝘾𝙏𝙊𝙍𝙔 - cd Dork-Search
 
